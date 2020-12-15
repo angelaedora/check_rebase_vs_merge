@@ -59,6 +59,9 @@ lblTimeEnd.grid(column=2, row=0)
 lblHours = Label(labelFrame, text="Hours", font=("Arial Bold", 12))
 lblHours.grid(column=4, row=0)
 
+# Some code by rebaser
+# Some code by rebaser again
+
 lblTask = Label(labelFrame, text="Task", font=("Arial Bold", 12))
 lblTask.grid(column=6, row=0)
 
