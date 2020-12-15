@@ -91,5 +91,5 @@ window.mainloop()
 # Some code here by merger 4
 
 
-# Some code by rebaser 5
-# Some code by rebaser 6
+# Some code by merger 5
+# Some code by merger 6
