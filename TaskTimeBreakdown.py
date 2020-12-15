@@ -47,6 +47,7 @@ window.title("TaskTimeBreakdown App")
 window.geometry("500x200")
 
 # Some code here by merger
+# Some code here by merger again
 
 labelFrame = Frame(window, width=500, height=50)
 labelFrame.pack(side=TOP)
