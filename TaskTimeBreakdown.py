@@ -42,7 +42,7 @@ class TaskRow:
 
 window = Tk()
 
-# Comment 12345, 678910
+# Comment 12345, 6789, 101112
 window.title("TaskTimeBreakdown App")
 window.geometry("500x200")
 
