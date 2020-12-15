@@ -86,3 +86,6 @@ task2 = TaskRow(taskFrame)
 task2.showRow(2)
 
 window.mainloop()
+
+# Some code here by merger 3
+# Some code here by merger 4
